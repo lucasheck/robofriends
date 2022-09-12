@@ -18,6 +18,8 @@ Technologies used:
 -   CSS3
 -   JS
 -   React
+-   Redux
+-   Redux Middleware (Logger and Thunk)
 
 ##
 
@@ -26,7 +28,8 @@ Implemented features:
 -   Listing 10 robots in cardlist
 -   Geting the robot photos by consuming API (https://robohash.org/)
 -   Geting random list by consuming API (https://jsonplaceholder.typicode.com/users)
--   Filter robots by name (without reload the page)
+-   Filter robots by name
 -   Visualization improved
+-   Redux Middleware
 
 ##
